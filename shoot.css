@@ -1,2 +1,13 @@
-body{background-color:pink;
+body{
+  background-color:rgb(148, 120, 191);
 }
+.header{background-color:coral;
+  color:rgb(179, 21, 142);
+  float:right;
+}
+.menu{
+  background-color:rgb(154, 227, 166);
+  color:rgb(33, 32, 38);
+  float:left;
+}
+
