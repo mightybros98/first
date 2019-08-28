@@ -10,5 +10,7 @@ body{
   color:rgb(33, 32, 38);
   
 }
-.menu li{list-style:inline;}
+.menu{padding-top:2px;}
+.menu li{list-style:inline;
+list-style-type:none;}
 
